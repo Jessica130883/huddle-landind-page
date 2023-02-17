@@ -8,4 +8,12 @@
         background-image: url(images/bg-mobile.svg);
         background-color: #684BB1;
     }
+    .logo {
+        height: 100px;
+        width: 100px;
+    }
+    .illustration {
+        height: 206px;
+        width: 296px;
+    }
 }
