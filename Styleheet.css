@@ -11,9 +11,36 @@
     .logo {
         height: 100px;
         width: 100px;
+        margin-left: 40px;
     }
     .illustration {
-        height: 206px;
+        height: 209px;
         width: 296px;
+        margin: 127px 0 0 40px;
+        
+        
+    }
+    .box-text {
+        width: 150px;
+        height: 150px;
+        margin-top: 396px;
+        margin-left: 20px;
+        align-items: center;
+    }
+    .title {
+        height: 72px;
+        width: 280px;
+        font-family: 'Poppins', sans-serif;
+        font-size: 24px;
+        text-align: center;
+        color: white;
+    }
+    .marketing-text {
+        height: 120px;
+        width: 304px;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 16px;
+        text-align: center;
+        color: white;
     }
 }
