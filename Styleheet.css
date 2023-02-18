@@ -16,14 +16,14 @@
     .illustration {
         height: 209px;
         width: 296px;
-        margin: 127px 0 0 40px;
+        margin: 47px 0 80px 40px;
         
         
     }
     .box-text {
         width: 150px;
         height: 150px;
-        margin-top: 396px;
+        
         margin-left: 20px;
         align-items: center;
     }
@@ -46,8 +46,23 @@
     .click-button {
         height: 40px;
         width: 200px;
-        border-radius: 50%;
+        border-radius: 20px;
         margin-top: 24px;
         
+        
     }
+    .box-socialmedia {
+        text-align: center;
+        height: 28px;
+        width: 104px;
+        margin-top: 100px;
+    }
+}
+
+@media screen and (min-width: 601px) {
+    body {
+        background-image: url(images/bg-desktop.svg);
+        background-color:#684BB1;
+    }
+    
 }
